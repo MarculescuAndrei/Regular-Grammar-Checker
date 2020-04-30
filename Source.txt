@@ -1,10 +1,11 @@
 S
-S B D
+B 
 S S a
 S B b
 B * c
 B C x
 B D d
+C B c
 C C x 
 C * z
 C S a
