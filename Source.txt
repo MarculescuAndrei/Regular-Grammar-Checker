@@ -1,0 +1,12 @@
+S
+S B D
+S S a
+S B b
+B * c
+B C x
+B D d
+C C x 
+C * z
+C S a
+D * w
+
